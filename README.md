@@ -1,4 +1,6 @@
-# weather-app
+# weather-app (vue-js)
+
+## My mentee's first work
 
 ## Project setup
 ```
